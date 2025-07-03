@@ -18,7 +18,8 @@ DESCRIPTION : To read and display temperature data from a sensor on an LCD or se
 
 CIRCUIT DIAGRAM:
 
-https://github.com/user-attachments/assets/816b699e-b1ad-4cf5-80fe-4a73ff2aae2e
+![WhatsApp Image 2025-07-03 at 14 47 36_dc00e01e](https://github.com/user-attachments/assets/ef71f059-2958-4295-a23b-061f980647fb)
+
 
 CODE :
 
